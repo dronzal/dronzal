@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dronzal
 - 👀 I’m interested in AI, machine learning, computer vision, GIS
-- 🌱 I’m currently learning AI in a Postgraduate course
+- 🌱 I’m currently learning AI, machine learning, robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
